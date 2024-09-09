@@ -3,15 +3,22 @@
 </div>
 <div id="badges" align="center">
   <a href="">
-    <img src="https://github.com/AMahonya/AMahonya/blob/main/729264.png" width="100" alt="Python Badge"/>
+    <img src="https://github.com/AMahonya/AMahonya/blob/main/729264.png" width="80" alt="Python Badge"/>
   </a>
   <a href="https://t.me/Burb0n4ik">
-    <img src="https://github.com/AMahonya/AMahonya/blob/main/19204353_9f385fbab2f3fffb940aaaf1c211642a_800.png" width="90" alt="TG Badge"/>
+    <img src="https://github.com/AMahonya/AMahonya/blob/main/19204353_9f385fbab2f3fffb940aaaf1c211642a_800.png" width="70" alt="TG Badge"/>
   </a>
   <a href="https://vk.com/andreyesenin">
-    <img src="https://github.com/AMahonya/AMahonya/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png" width="100" alt="VK Badge"/>
+    <img src="https://github.com/AMahonya/AMahonya/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png" width="80" alt="VK Badge"/>
   </a>
 </div>
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=AMahonya" width="80" alt=""/>
+
+
+
+</div>
+
 
 <div id="header" align="center">
     <h1>Hi there, I'm Andrew</h1>
