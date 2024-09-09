@@ -17,9 +17,13 @@
 </div>
 
 
+
 <div id="header" align="center">
     <h1>Hi there ✌️, I'm Andrew</h1>
     <h3>Python Developer from Yaroslavl</h3>
+</div>
+<div align="center">
+  <img src="https://github.com/AMahonya/AMahonya/blob/main/2d64fff15c522596a8814138a51b7ad9.gif" width="600" height="300"/>
 </div>
 
 
