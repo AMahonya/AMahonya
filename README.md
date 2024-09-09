@@ -26,6 +26,28 @@
   <img src="https://github.com/AMahonya/AMahonya/blob/main/2d64fff15c522596a8814138a51b7ad9.gif" width="600" height="300"/>
 </div>
 
+---
+
+### :woman_technologist: About Me :
+I am a Python Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I am studying at Urban University
+- :seedling: Learning the Python programming language
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AMahonya&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMahonya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMahonya&show_icons=true&theme=vision-friendly-dark)
