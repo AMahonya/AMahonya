@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/AMahonya/AMahonya/blob/main/photo_2022-02-22_22-11-02%20(1).png" width="100"/>
+  <img src="https://github.com/AMahonya/AMahonya/blob/main/772399198.jpeg" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://github.com/AMahonya/Domashka">
