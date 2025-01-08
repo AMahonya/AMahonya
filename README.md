@@ -29,7 +29,10 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Python Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+  I have a technical education and I'm currently studying at Urban University.
+ My goal is to continue developing my skills in Python, REST API, and Telegram bot development.
+
 - :telescope: I am studying at Urban University
 - :seedling: Learning the Python programming language
 
