@@ -98,12 +98,13 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 ### 🔥 My Stats:
+[![trophy](https://github-profile-trophy.vercel.app/?username=AMahonya&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/AMahonya">
-<img src="https://github-readme-stats.vercel.app/api?username=AMahonya&layout=compact&theme=vision-friendly-dark" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=AMahonya&layout=compact&theme=onedark" alt="GitHub Stats">
 </a>
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AMahonya&theme=dark&background=000000)](https://github.com/AMahonya)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AMahonya&theme=onedark&background=000000)](https://github.com/AMahonya)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMahonya&layout=compact&theme=vision-friendly-dark)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMahonya&layout=compact&theme=onedark)
 
