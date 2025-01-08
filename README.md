@@ -65,11 +65,20 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-plain-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-plain-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;
 </div>
 
 ---
