@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github.com/AMahonya/AMahonya/blob/main/772399198.jpeg" width="150" alt="Your Profile Picture"/>
+  
+  [![Andrei Makhanec](https://github-readme-stackoverflow.vercel.app/?userID=29105763&theme=dark)](https://github.com/AMahonya) 
+  
 </div>
 
 <p align="center">
