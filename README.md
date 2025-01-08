@@ -32,9 +32,35 @@
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
   I have a technical education and I'm currently studying at Urban University.
  My goal is to continue developing my skills in Python, REST API, and Telegram bot development.
+ 
+### Skills
+-  📚 **Languages:** [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)](#)
+- 🛠️ **Frameworks & Libraries:** [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)](#)
+[![Requests](https://img.shields.io/badge/-Requests-000000?style=flat-square&logo=requests&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
+[![aiogram](https://img.shields.io/badge/-aiogram-000000?style=flat-square&logo=aiogram&logoColor=white)](#)
 
-- :telescope: I am studying at Urban University
-- :seedling: Learning the Python programming language
+
+- 🔧 **Tools & Technologies**: [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat-square&logo=restapi&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
+- **🗄️ Databases:** [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
+
+- **🖥️ Operating Systems:** [![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](#)
+### 🧠 Additional Skills:
+- OOP
+- Algorithms and data structures
+- Testing
+- API development
+
 
 ---
 
