@@ -1,20 +1,19 @@
-<div id="header" align="center">
-  <img src="https://github.com/AMahonya/AMahonya/blob/main/772399198.jpeg" width="150"/>
+<div align="center">
+  <img src="https://github.com/AMahonya/AMahonya/blob/main/772399198.jpeg" width="150" alt="Your Profile Picture"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://github.com/AMahonya/Domashka">
-    <img src="https://github.com/AMahonya/AMahonya/blob/main/729264.png" width="80" alt="Python Badge"/>
-  </a>
+
+<p align="center">
   <a href="https://t.me/Burb0n4ik">
-    <img src="https://github.com/AMahonya/AMahonya/blob/main/19204353_9f385fbab2f3fffb940aaaf1c211642a_800.png" width="70" alt="TG Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://vk.com/andreyesenin">
-    <img src="https://github.com/AMahonya/AMahonya/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png" width="80" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/VK-2E83C9?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
-</div>
-<div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=AMahonya" width="80" alt=""/>
-</div>
+  <a href="https://github.com/AMahonya">
+     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  </p>
+
 
 
 
