@@ -33,7 +33,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   I have a technical education and I'm currently studying at Urban University.
  My goal is to continue developing my skills in Python, REST API, and Telegram bot development.
  
-### Skills
+### 🛠️ Skills
 -  📚 **Languages:** [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
@@ -61,10 +61,25 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - Testing
 - API development
 
+###  🚀  Projects:
+
+[Add links and brief descriptions of your projects here]
+
+### 📧 Contact Me:
+
+- **Email:** mahanec.andrei@gmail.com
+- **Telegram:** [Burb0n4ik](https://t.me/Burb0n4ik)
+- **VK:** [Andrey](https://vk.com/andreyesenin)
+
+### 🌐 Social Media:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Burb0n4ik)
+[![VK](https://img.shields.io/badge/VK-2E83C9?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/andreyesenin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMahonya)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -82,6 +97,15 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 </div>
 
 ---
+### 🔥 My Stats:
+
+<a href="https://github.com/AMahonya">
+<img src="https://github-readme-stats.vercel.app/api?username=AMahonya&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
+</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AMahonya&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMahonya&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :fire: My Stats :
 
