@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Andrei Makhanec](https://github-readme-stackoverflow.vercel.app/?userID=29105763&theme=dark)](https://github.com/AMahonya) 
+  [![Andrei Makhanec](https://github-readme-stackoverflow.vercel.app/?userID=29105763&theme=dark)](https://stackoverflow.com/users/29105763/andrei-makhanets) 
   
 </div>
 
