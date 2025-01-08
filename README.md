@@ -104,7 +104,5 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <img src="https://github-readme-stats.vercel.app/api?username=AMahonya&layout=compact&theme=onedark" alt="GitHub Stats">
 </a>
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AMahonya&theme=onedark&background=000000)](https://github.com/AMahonya)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMahonya&layout=compact&theme=onedark)
 
