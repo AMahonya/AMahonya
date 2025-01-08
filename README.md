@@ -100,16 +100,10 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### 🔥 My Stats:
 
 <a href="https://github.com/AMahonya">
-<img src="https://github-readme-stats.vercel.app/api?username=AMahonya&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=AMahonya&layout=compact&theme=vision-friendly-dark" alt="GitHub Stats">
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AMahonya&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AMahonya&layout=compact&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMahonya&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMahonya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :fire: My Stats :
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AMahonya&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMahonya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMahonya&show_icons=true&theme=vision-friendly-dark)
