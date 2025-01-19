@@ -1,3 +1,10 @@
+<div id="header" align="center">
+    <h1>═══════════════════ஜ۩۞۩ஜ═══════════════════</h1>
+  <h1>W E L C O M E - T O - M Y - P R O F I L E</h1>
+  <h1>═══════════════════ஜ۩۞۩ஜ═══════════════════</h1>
+    
+</div>
+
 <div align="center">
   
   [![Andrei Makhanec](https://github-readme-stackoverflow.vercel.app/?userID=29105763&theme=dark)](https://stackoverflow.com/users/29105763/andrei-makhanets) 
