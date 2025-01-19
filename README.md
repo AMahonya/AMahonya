@@ -70,8 +70,19 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - API development
 
 ###  🚀  Projects:
+1. **Price List Analyzer:**
+    - **Development Environment:** Python (using `csv`, `json`, `os` libraries), HTML, CSS.
+    - **Functionality:**
+        - Loads data from multiple CSV price list files (files must contain the word "price" in the name or your file name (how to change is described in the README.md)).
+        - Automatically identifies columns with product name, price, and weight. Supported column names are specified in the code.
+        - Searches for products by partial name matching.
+        - Sorts search results by price per kilogram.
+        - Displays search results in the console as a table.
+        - Generates an HTML report with all search results, including a caption for each query.
+        - Saves search results to a JSON file (Only one query is saved to JSON) for further processing.
+    - **Keywords:** Python, CSV, JSON, HTML, data processing, data analysis, search, reports.
+    - **Link:** [GitHub Repository](https://github.com/AMahonya/price_analyzer)
 
-[Add links and brief descriptions of your projects here]
 
 ### 📧 Contact Me:
 
